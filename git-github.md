@@ -9,7 +9,7 @@
     - 打开本地文件，找到.ssh的目录，点进去会有个id_rsa.pub文件，用记事 - 本打开，复制里面内容
     - 在github点击头像的下拉框，settings点进去，找到SSH and GPG keys点击，再点击New SSH key
     - Title随便写，key就把在id_rsa.pub文件里复制的内容粘贴到里面就行了，点击Add SSH key就大功告成了！
-    
+  
 ### 拉取
  - 先在本地新建一个文件夹；进入当前创建的文件夹，终端台输入：git init，则文件夹中会出现一个.git的文件夹
  - 在github点加号里面的new repository创建一个仓库
@@ -32,6 +32,9 @@
  - 执行：git commit -m “提交项目的说明文字”
  - 执行：git remote add origin url(github仓库的地址) 让本地仓库与远程仓库关联
  - 执行：git push origin master 本地仓库的代码提交到github上
+
+### 删除github多余的仓库
  <div align="center">
-<img src="http://imgtech.gmw.cn/attachement/jpg/site2/20111223/f04da22d7ba7105e1d7507.jpg"  alt="CSDN图标" />
+ <img src="https://camo.githubusercontent.com/236f5704e03905b67b0e29bc374281e58649064d/687474703a2f2f696d67746563682e676d772e636e2f617474616368656d656e742f6a70672f73697465322f32303131313232332f663034646132326437626137313035653164373530372e6a7067"  alt="CSDN图标" />
  </div>
+

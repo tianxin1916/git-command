@@ -32,3 +32,6 @@
  - 执行：git commit -m “提交项目的说明文字”
  - 执行：git remote add origin url(github仓库的地址) 让本地仓库与远程仓库关联
  - 执行：git push origin master 本地仓库的代码提交到github上
+ <div align="center">
+<img src="http://imgtech.gmw.cn/attachement/jpg/site2/20111223/f04da22d7ba7105e1d7507.jpg"  alt="CSDN图标" />
+ </div>
